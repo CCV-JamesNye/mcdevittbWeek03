@@ -1,6 +1,6 @@
 extends Node2D
 
-var speed : float = 500
+var speed : float = 400
 
 # Apply the Movement
 
