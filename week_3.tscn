@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bslhx3tx62xdb"]
+
+[ext_resource type="PackedScene" uid="uid://cimcafsad4377" path="res://Scenes/Player/player.tscn" id="1_516fa"]
+
+[node name="Week3" type="Node2D" unique_id=1468183955]
+
+[node name="Player" parent="." unique_id=1889842126 instance=ExtResource("1_516fa")]
